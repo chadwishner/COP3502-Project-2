@@ -3,8 +3,6 @@ import java.util.Arrays;
 import org.junit.Test;
 
 //This is a junit file
-//This has 1 test case for each method you had to write
-//Note this junit file does not check every test case possible
 
 public class PoetryDecoderTest{
 	
